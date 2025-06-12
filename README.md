@@ -25,7 +25,7 @@ NEXT_PUBLIC_TEMPLATE_ID = 'template_fqqqb9g'
 NEXT_PUBLIC_SERVICE_ID = 'YOUR_SERVICE_ID'
 
 ```
-
+jhgyukggbjhbkytfyv,jhbn
 into it. Replace \*your user id and your service ID with your values in your EmailJS service.
 
 ## Star History
